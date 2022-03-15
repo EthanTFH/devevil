@@ -879,11 +879,6 @@ button[aria-label="Send a gift"] {
   content: "𝗗𝗮𝗿𝗸+ 𝗯𝘆 𝗗𝗲𝘃𝗘𝘃𝗶𝗹#𝟴𝟳𝟰𝟱";
 }
 
-.channelName-3KPsGw,
-.subtitle-3PyFgf {
-  color: var(--darkplus-sec);
-}
-
 .navButtonActive-1EqC5l {
   background-color: var(--darkplus-bg);
   color: var(--darkplus-sec);
